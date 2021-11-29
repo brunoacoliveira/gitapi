@@ -1,5 +1,5 @@
 const defaultUser = 'brunoacoliveira',
-      authorizationKey = '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';
+        authorizationKey = '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';
 loadUserData(defaultUser);
 
 // ------------------------------------------------------------------------------------------------------------------ //
